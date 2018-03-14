@@ -1,0 +1,191 @@
+C:\Users\пользователь\Desktop\Test\Test\bin\Debug\Test.exe.config
+C:\Users\пользователь\Desktop\Test\Test\bin\Debug\Test.exe
+C:\Users\пользователь\Desktop\Test\Test\bin\Debug\Test.pdb
+C:\Users\пользователь\Desktop\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\пользователь\Desktop\Test\Test\obj\Debug\Test.Login.resources
+C:\Users\пользователь\Desktop\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\пользователь\Desktop\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\пользователь\Desktop\Test\Test\obj\Debug\Test.exe
+C:\Users\пользователь\Desktop\Test\Test\obj\Debug\Test.pdb
+C:\Users\пользователь\Desktop\Test\Test\obj\Debug\Test.Техника.resources
+C:\Users\пользователь\Desktop\Test\Test\obj\Debug\Test.ДобавитьГруппу.resources
+C:\Users\пользователь\Desktop\Test\Test\obj\Debug\Test.ДобавитьПодгруппу.resources
+C:\Users\пользователь\Desktop\Test\Test\obj\Debug\Test.ДобавитьМодель.resources
+C:\Users\пользователь\Desktop\Test\Test\obj\Debug\Test.Заявки.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.ДобавитьГруппу.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Login.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.ДобавитьПодгруппу.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.ДоговораСЗаводами.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\пользователь\Desktop\Диплом\Test\Test\bin\Debug\testDataSet.xsd
+C:\Users\пользователь\Desktop\Диплом\Test\Test\bin\Debug\testDataSet.cs
+C:\Users\пользователь\Desktop\Диплом\Test\Test\bin\Debug\testDataSet.Designer.cs
+C:\Users\пользователь\Desktop\Диплом\Test\Test\bin\Debug\testDataSet.xsc
+C:\Users\пользователь\Desktop\Диплом\Test\Test\bin\Debug\testDataSet.xss
+C:\Users\пользователь\Desktop\Диплом\Test\Test\bin\Debug\Test.exe.config
+C:\Users\пользователь\Desktop\Диплом\Test\Test\bin\Debug\Test.exe
+C:\Users\пользователь\Desktop\Диплом\Test\Test\bin\Debug\Test.pdb
+C:\Users\пользователь\Desktop\Диплом\Test\Test\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\пользователь\Desktop\Диплом\Test\Test\bin\Debug\Xceed.Editors.v2.6.dll
+C:\Users\пользователь\Desktop\Диплом\Test\Test\bin\Debug\Xceed.Grid.Samples.Validation.exe
+C:\Users\пользователь\Desktop\Диплом\Test\Test\bin\Debug\Xceed.Grid.v4.1.dll
+C:\Users\пользователь\Desktop\Диплом\Test\Test\bin\Debug\Xceed.UI.v1.4.dll
+C:\Users\пользователь\Desktop\Диплом\Test\Test\bin\Debug\Xceed.Validation.v1.3.dll
+C:\Users\пользователь\Desktop\Диплом\Test\Test\bin\Debug\Xceed.Editors.v2.6.xml
+C:\Users\пользователь\Desktop\Диплом\Test\Test\bin\Debug\Xceed.Grid.v4.1.xml
+C:\Users\пользователь\Desktop\Диплом\Test\Test\bin\Debug\Xceed.UI.v1.4.xml
+C:\Users\пользователь\Desktop\Диплом\Test\Test\bin\Debug\Xceed.Validation.v1.3.xml
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.exe
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.pdb
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Forms.Add.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Forms.AddCharact.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.AddCity.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Forms.AddContact.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.AddDepartment.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.AddModelPriceList.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.AddPost.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Forms.AddModelStore.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Forms.AddRequisite.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.AddUnit.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Autorisation.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Administrator.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.CatalogCity.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.CatalogContractFactory.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.CatalogContractClient.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Forms.CatalogGroupTechnique.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.CatalogUnits.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Forms.EditCharact.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Forms.EditCity.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Forms.EditContact.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Forms.EditDepartment.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Forms.EditEmployee.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Forms.EditFactory.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Forms.EditGroup.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Forms.EditModelPriceList.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Forms.EditPost.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Forms.EditRequisite.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Forms.EditSubgroup.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Forms.EditTechniqueStore.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.ViewContact.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.ViewStore.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Forms.ViewStoreAdmin.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.AddFactory.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.AddTechnique.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.ContractClient.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.ContractFactory.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.CatalogFactory.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.RequestDelivery.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.RequestService.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.RequestTechnique.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.Manager.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.InformationModel.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.SelectionTechniques.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.PriceList.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.ViewContractClient.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.ViewContractFactory.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.ViewRequestTechnique.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.ViewRequestDelivery.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.ViewRequisite.resources
+C:\Users\пользователь\Desktop\Диплом\Test\Test\obj\Debug\Test.СatalogTechniques.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\Test.exe.config
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.exe
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.pdb
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\CrystalReport2.rpt
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\CrystalReport3.rpt
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\CrystalReport5.rpt
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\CrystalReport2.cs
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\CrystalReport3.cs
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\CrystalReport5.cs
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\testDataSet.xsd
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\testDataSet.cs
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\testDataSet.Designer.cs
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\testDataSet.xsc
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\testDataSet.xss
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\Test.exe
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\Test.pdb
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\FlashControlV71.dll
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\bin\Debug\stdole.dll
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Form1.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Form3.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Forms.Add.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Forms.AddCharact.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.AddCity.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Forms.AddContact.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.AddDepartment.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.AddModelPriceList.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.AddPost.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Forms.AddModelStore.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Forms.AddRequisite.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.AddUnit.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Autorisation.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Administrator.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.CatalogCity.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.CatalogContractFactory.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.CatalogContractClient.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Forms.CatalogGroupTechnique.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.CatalogUnits.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Forms.EditCharact.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Forms.EditCity.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Forms.EditContact.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Forms.EditDepartment.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Forms.EditEmployee.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Forms.EditFactory.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Forms.EditGroup.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Forms.EditModelPriceList.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Forms.EditPost.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Forms.EditRequisite.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Forms.EditSubgroup.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Forms.EditTechniqueStore.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Forms.Form2.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Forms.FormData.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Forms.FormData2.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.ViewContact.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.ViewStore.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Forms.ViewStoreAdmin.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.ДобавитьГруппу.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Login.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.AddFactory.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.AddTechnique.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.ДобавитьПодгруппу.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.ContractClient.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.ДоговораСЗаводами.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.ContractFactory.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.CatalogFactory.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.RequestDelivery.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.RequestService.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.RequestTechnique.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.Manager.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.InformationModel.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.SelectionTechniques.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.PriceList.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.ViewContractClient.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.ViewContractFactory.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.ViewRequestTechnique.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.ViewRequestDelivery.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.ViewRequisite.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.СatalogTechniques.resources
+C:\Users\пользователь\Desktop\Диплом\Test норм — копия\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\пользователь\Desktop\Диплом\AutoTechnique\Test\bin\Debug\Test.exe.config
+C:\Users\пользователь\Desktop\Диплом\AutoTechnique\Test\obj\Debug\Test.exe
+C:\Users\пользователь\Desktop\Диплом\AutoTechnique\Test\obj\Debug\Test.pdb
